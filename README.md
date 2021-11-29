@@ -39,5 +39,5 @@ Using the multi-line chart below, we can tell that the total fare by city type i
 To rectify disparities among city types, I reccomend three action items:
 
 1. Decrease fares in rural areas by implementing an advertising campaign for ride shares that encourage more people to use this service. 
-2. Redistribute the income of drivers living in rural areas to supplement the income of drivers in rural areas. 
+2. Redistribute the income of drivers living in rural areas to supplement the income of drivers in urban areas. 
 3. 
