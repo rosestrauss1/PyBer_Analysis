@@ -8,6 +8,7 @@ The purpose of this analysis is to assess how the data about ridesharing differs
 
 The information below was collected using the following data frame:
 
+<img width="613" alt="Screen Shot 2021-11-28 at 6 20 39 PM" src="https://user-images.githubusercontent.com/92963227/143807993-516e0a90-9d31-46bc-bcec-be351264da01.png">
 
 
   * Total Rides
@@ -35,7 +36,7 @@ According to this data frame, drivers in rural areas make the most profit from t
 
 Using the multi-line chart below, I found that the total fare by city type is consistently highest for rural cities, then suburban cities, and has the lowest fare in urban cities. For all three city types, the fare remains relatively stable and then spikes in late Febuary. 
 
-![alt text](https://github.com/[rosestrauss1]/[PyBer_Analysis]/blob/[main]/fig15.png?raw=true)
+![fig15](https://user-images.githubusercontent.com/92963227/143807947-feb3585f-adc0-45d2-a127-f7915a924ff4.png)
 
 
 ## Summary:
