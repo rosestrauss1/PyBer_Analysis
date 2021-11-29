@@ -1,6 +1,6 @@
 # PyBer Analysis
 ## Overview of the analysis:
-The purpose of this analysis is to assess how the data about ridesharing differs between urban, suburban, and rural cities by using Pandas and Matplotlib to create data visualizations.
+The purpose of this analysis is to assess how the data for ridesharing differs between urban, suburban, and rural cities by using Pandas and Matplotlib to create data visualizations.
 
 ## Results:
 
@@ -42,6 +42,6 @@ Using the multi-line chart below, I found that the total fare by city type is co
 ## Summary:
 To rectify disparities among city types, I reccomend three action items:
 
-1. Decrease fares in rural areas by implementing an advertising campaign for ride shares that encourage more people to use this service. 
+1. Decrease fares in rural areas by implementing an advertising campaign for PyBer that encourage more people to use this service. 
 2. Redistribute the income of drivers living in rural areas to supplement the income of drivers in urban areas. 
 3. Charge less per mile in rural areas to encourage the use of ride sharing, and reduce costs for potential clients. This would levalize the income made from rural and urban drivers and make ridesharing more affordable in rural and suburban areas.
