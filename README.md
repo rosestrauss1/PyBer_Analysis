@@ -22,9 +22,13 @@ I calculated that the total drivers followed the same trend as total rides, with
 
 I calculated that the total fare to be the highest in rural areas, second highest in suburban areas, and lowest in urban areas. The cost of rides could have been driven up due to a shortage of drivers.
 
- * Average Fare Per Ride & Average Fare Per Driver
+ * Average Fare Per Ride
 
-Both average fare per ride and average fare per driver follow the same trend as total fares, which is highest in rural areas, second highest in suburban areas, and lowest in urban areas.
+The average fare per ride follows the same trend as total fares, which is highest fares in rural areas, second highest fares in suburban areas, and lowest in urban areas.
+
+* Average Fare Per Driver
+
+According to this data frame, drivers in rural areas make the most profit from their passengers, suburban drivers make the second most amount of money, and urban drivers make the least profit. 
 
 
 ### Total Fare by City Type
@@ -33,6 +37,7 @@ Using the multi-line chart below, we can tell that the total fare by city type i
 
 ## Summary:
 To rectify disparities among city types, I reccomend three action items:
-1. 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+1. Decrease fares in rural areas by implementing an advertising campaign for ride shares that encourage more people to use this service. 
+2. Redistribute the income of drivers living in rural areas to supplement the income of drivers in rural areas. 
+3. 
