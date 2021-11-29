@@ -36,8 +36,7 @@ According to this data frame, drivers in rural areas make the most profit from t
 
 Using the multi-line chart below, I found that the total fare by city type is consistently highest for rural cities, then suburban cities, and has the lowest fare in urban cities. For all three city types, the fare remains relatively stable and then spikes in late Febuary. 
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/92963227/143808578-af54b1e9-dc83-4f0d-91c2-f1d4332a8328.png)
-
+![PyBer_fare_summary](https://user-images.githubusercontent.com/92963227/143810685-5ef3d087-4fdc-46aa-834d-f30d31636525.png)
 
 
 
