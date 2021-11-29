@@ -1,10 +1,20 @@
-# PyBer_Analysis
+# PyBer Analysis
 ## Overview of the analysis:
-The purpose of the new analysis is well defined. (3 pt)
+The purpose of this analysis is to assess how the data about ridesharing differs between urban, suburban, and rural cities by using Pandas and Matplotlib to create data visualizations.
 
 ## Results:
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+### Total Rides
+
+### Total Drivers
+
+#### Total Fares
+
+### Average Fare Per Ride
+
+### Average Fare Per Driver
+
+### Total Fare by City Type
 
  Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
