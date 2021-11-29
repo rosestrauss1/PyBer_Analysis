@@ -4,19 +4,29 @@ The purpose of this analysis is to assess how the data about ridesharing differs
 
 ## Results:
 
-### Total Rides
+### Pyber Summary Data Frame
 
-### Total Drivers
+The information below was collected using the following data frame:
 
-#### Total Fares
 
-### Average Fare Per Ride
 
-### Average Fare Per Driver
+  * Total Rides
+
+I calculated that the total rides to be the lowest in rural areas, second lowest in suburban areas, and highest in urban areas.
+
+ * Total Drivers
+
+I calculated that the total drivers followed the same trend as total rides, with the smallest number of drivers in rural areas, second smallest in suburban areas, and highest number of drivers in urban areas.
+
+ * Total Fares
+
+ * Average Fare Per Ride
+
+ * Average Fare Per Driver
 
 ### Total Fare by City Type
 
- Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+Using the multi-line chart below, we can tell that the total fare by city type is consistently highest for rural cities, then suburban cities, and has the lowest fare in urban cities. For all three city types, the fare remains relatively stable and then spikes in late Febuary. 
 
 ## Summary:
 
